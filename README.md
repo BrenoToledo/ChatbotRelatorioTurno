@@ -104,8 +104,15 @@ Forneça exemplos de uso do seu projeto. Mostre como os usuários podem aproveit
 
 ## Documentação
 
-Se o seu projeto tiver uma documentação extensa, mencione isso aqui e forneça um link para a documentação completa.
+Este é um chatbot desenvolvido para registrar ocorrências e gerar relatórios. Ele foi implementado usando a biblioteca pyTelegramBotAPI.
 
+1. Inicie o chatbot executando o comando /new no chat do telegram.
+
+2. Ao iniciar o chat, você será apresentado com um teclado de opções. Você pode escolher entre "Inserir ocorrência" e "Exportar Relatório".
+
+3. Para inserir uma ocorrência, selecione a opção "Inserir ocorrência". Em seguida, siga as instruções do bot para fornecer os detalhes da ocorrência, como o problema ocorrido, o local, a existência de downtime e ordem de serviço, e o status do problema.
+
+4. Para exportar um relatório das ocorrências registradas no dia, selecione a opção "Exportar Relatório". O bot enviará uma mensagem com o relatório formatado, incluindo a data, a equipe, a legenda e as ocorrências por local.
 
 ## Contribuição
 
