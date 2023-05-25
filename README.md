@@ -2,7 +2,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/BrenoToledo/ChatbotRelatorioTurno?style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/BrenoToledo/ChatbotRelatorioTurno?style=for-the-badge)
 
-# Chatbot Relatório Turno
+# 🤖 Chatbot Relatório Turno
 
 
 Este é um BOT que desenvolvi para auxiliar na minha rotina como técnico de automação em uma fábrica. Ele me ajuda a criar um relatório diário dos problemas que ocorreram na fábrica, proporcionando uma comunicação mais rápida e padronizada com meus gestores.
@@ -118,7 +118,7 @@ Este é um chatbot desenvolvido para registrar ocorrências e gerar relatórios.
 
 Se você deseja contribuir para este projeto, siga as diretrizes abaixo para reportar problemas, propor melhorias e enviar solicitações de pull:
 
-### Problemas
+### 🐞 Problemas
 
 Se você encontrar algum problema ou bug no projeto, abra um novo *issue* no GitHub. Certifique-se de incluir informações detalhadas sobre o problema, como passos para reproduzi-lo, mensagens de erro e contexto relevante. Isso nos ajudará a entender e resolver o problema o mais rápido possível.
 
@@ -154,7 +154,4 @@ Certifique-se de incluir um arquivo LICENSE em seu repositório contendo a licen
 Descreva o estado atual do projeto. Você pode mencionar as funcionalidades já implementadas, o que está planejado para o futuro e como os usuários podem acompanhar as atualizações.
 
 ## Contato
-
-Forneça informações de contato para que os usuários possam entrar em contato com você sobre o projeto. Isso pode incluir seu e-mail, perfil de mídia social ou qualquer outro meio de comunicação relevante.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-brenotoledo/)
